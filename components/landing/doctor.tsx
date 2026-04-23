@@ -19,7 +19,7 @@ export function Doctor() {
                   
                   className="h-full w-full bg-cover brightness-110 contrast-105"
                   style={{
-                    backgroundImage: "url('/Mpland.jpeg')",
+                    backgroundImage: "url('/mpland.jpeg')",
                     backgroundPosition: "55% 20%",
                   }}
                   role="img"

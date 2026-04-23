@@ -1,18 +1,18 @@
 const galleryImages = [
   {
-    src: "/Panoramica consultorio.jpeg",
+    src: "/panoramica-consultorio.jpeg",
     alt: "Espacio de atención del consultorio odontológico en Recoleta",
   },
   {
-    src: "/Gabinete amplio.jpeg",
+    src: "/gabinete-amplio.jpeg",
     alt: "Gabinete odontológico con equipamiento profesional",
   },
   {
-    src: "/Sillon Lampara.jpeg",
+    src: "/sillon-lampara.jpeg",
     alt: "Detalle del equipamiento odontológico del consultorio",
   },
   {
-    src: "/Equipo MP.jpeg",
+    src: "/equipo-mp.jpeg",
     alt: "Equipo de atención en el consultorio",
   },
 ]
